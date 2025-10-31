@@ -1,0 +1,11 @@
+{
+  "supported": [
+    "2.2.*",
+    "^2.1.11"
+  ],
+  "deprecated": [
+    "2.1.*"
+  ],
+  "minimumRequired": "2.1.0",
+  "lastUpdated": "2025-10-31T12:00:00Z"
+}
